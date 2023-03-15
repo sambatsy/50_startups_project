@@ -1,4 +1,4 @@
-# (60 startups Profit Predicition)
+# (50 startups Profit Predicition)
 ## Google CDC Hackathon #tech_meetup3
 > This project was created during the Google CDC Hackathon from March 12 to 15 to incorporate AI for the project idea and to promote the use of data analysis and machine learning to support entrepreneurs and startups founders. It accurately predicted the profit of 49 startups for platform users with a high accuracy of 94% based on the dataset provided by kaggle https://www.kaggle.com/datasets/farhanmd29/50-startups. 
 **The following idea is:**
